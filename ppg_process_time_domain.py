@@ -120,8 +120,8 @@ if __name__ == '__main__':
     fs = 25
     # 静止
 
-    file_dir = r'D:\ZHJ\data_compare\06_static\3_2024_04_23_10_07_47'
-    file_name = r'HeartRate_Static_zhj_20240423_100423_67d7.rawdata'
+    file_dir = r'D:\data_compare\static\3_2024_04_23_10_07_47'
+    file_name = r'HeartRate_Static_20240423_100423_67d7.rawdata'
 
     file_path = file_dir + os.sep + file_name
 
